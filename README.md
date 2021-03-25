@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @marcelorvergara
+Hi there 
+I’m @marcelorvergara
 - 👀 I’m interested in software projects and develop code skills.
 - 🌱 I’m currently learning Java, JS, Vue, Android (Kotlin), Python and some serveless technologies.
 - 💞️ I’m looking to collaborate on new projects.
