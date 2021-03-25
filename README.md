@@ -1,7 +1,7 @@
 ### Hi there, :wave: 
 
 
-I’m Marcelo Vergara
+## I’m Marcelo Vergara
 
 
 - 👀 I’m interested in software projects and develop code skills.
