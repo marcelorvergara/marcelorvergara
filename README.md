@@ -11,6 +11,8 @@
 - :zap: I'm not thunder
 - 📫 How to reach me => marcelorv@gmail.com
 
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQHPWVPref30IQ/profile-displaybackgroundimage-shrink_200_800/0/1607477866909?e=1622678400&v=beta&t=fA4_Gq3qiaogx2hBh-lHyLnt5plWALyfJyK0pU8wZds alt="profile image">
+
 <!---
 marcelorvergara/marcelorvergara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
