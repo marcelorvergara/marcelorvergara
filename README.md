@@ -1,4 +1,4 @@
-![alt text](https://media-exp1.licdn.com/dms/image/C5616AQHPWVPref30IQ/profile-displaybackgroundimage-shrink_200_800/0/1607477866909?e=1622678400&v=beta&t=fA4_Gq3qiaogx2hBh-lHyLnt5plWALyfJyK0pU8wZds)
+![alt text](https://github.com/marcelorvergara/marcelorvergara/blob/main/good-programmer-banner-final.jpg)
 
 ### Hi there, :wave: 
 
