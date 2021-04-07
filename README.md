@@ -22,7 +22,7 @@
 <table style="vertical-align: top; border: 0 solid black; border-collapse: collapse">
     <tr>
         <td>
-            <img width="430" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=marcelorvergara&count_private=true&show_icons=true&theme=onedark"/> 
+            <img width="432" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=marcelorvergara&count_private=true&show_icons=true&theme=onedark"/> 
         </td>    
         <td>
             <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelorvergara&langs_count=10&layout=compact&theme=onedark" height="220" alt="Languages" />
