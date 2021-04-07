@@ -30,8 +30,9 @@
     </tr>
     <tr>
         <td colspan="2" style="horiz-align: right">
-            ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marcelorvergara.marcelorvergara)
+            
         </td>
     </tr>
 </table>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marcelorvergara.marcelorvergara)
 
