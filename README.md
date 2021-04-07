@@ -16,7 +16,7 @@
 
 ---
 ### GitHub Stats 
-<table>
+<table style="vertical-align: top">
     <tr>
         <td>
             <img width="380" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=marcelorvergara&count_private=true&show_icons=true&theme=onedark"/> 
