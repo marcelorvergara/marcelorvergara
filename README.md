@@ -19,7 +19,7 @@
 
 ### GitHub Stats 
 
-<table style="vertical-align: top; border: 0 solid black; border-collapse: collapse">
+<table style="vertical-align: top; border-collapse: collapse; border:0; text-decoration:none; outline:none">
     <tr>
         <td>
             <img width="433" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=marcelorvergara&count_private=true&show_icons=true&theme=onedark"/> 
