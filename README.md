@@ -29,8 +29,8 @@
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: right">
-            <img src="https://visitor-badge.laobi.icu/badge?page_id=marcelorvergara.marcelorvergara"/>
+        <td colspan="2" style="text-align: right; background-color: lightgray">
+            <img src="https://visitor-badge.laobi.icu/badge?page_id=marcelorvergara.marcelorvergara" alt="visitors number"/>
         </td>
     </tr>
 </table>
