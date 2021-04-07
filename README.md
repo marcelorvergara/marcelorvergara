@@ -8,7 +8,7 @@
 - 🌱 I’m currently coding Java, JS, Vue, Android (Kotlin), Python and some serveless technologies like Firebase Functions and Google App Engine.
 - 💞️ I’m looking to collaborate on new projects.
 - :speech_balloon: Ask me about music, Flamengo, network, firewalls and servers infrastructure.
-- :zap: I'm not thunder
+- :zap: Take a look at my pinned projects below
 - 📫 How to reach me: <a href="mailto:marcelorv@gmail.com"><img src="icons/gmail.svg" alt="GmailIcon" width="16" height="16" align="center"><img/></a> <a href="https://www.linkedin.com/in/mvergara/"><img src="icons/linkedin.svg" alt="LinkedinIcon" width="16" height="16" align="center"><img/> <a href="https://twitter.com/OFlamengoFacts"><img src="icons/twitter.svg" alt="TwitterIcon" width="16" height="16" align="center"><img/></a>
 
 ***
