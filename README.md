@@ -13,6 +13,9 @@
 
 <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%20-yellowgreen?style=for-the-badge&logo=vue.js"/> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%20-green?style=for-the-badge&logo=node.js"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%20-yellow?style=for-the-badge&logo=javascript"/>  <img alt="Java" src="https://img.shields.io/badge/Java-%20-orange?style=for-the-badge&logo=java"/> <img alt="hibernate" src="https://img.shields.io/badge/Hibernate-%20-lightgray?style=for-the-badge&logo=hibernate"/> <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%20-blue?style=for-the-badge&logo=kotlin"/> <img alt="Android" src="https://img.shields.io/badge/Android-%20-green?style=for-the-badge&logo=android"/>     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%20-blue?style=for-the-badge&logo=mysql"/> <img alt="postgres" src="https://img.shields.io/badge/postgres-%20-lightgrey?style=for-the-badge&logo=postgresql"/> <img alt="Python" src="https://img.shields.io/badge/Python-%20-blue?style=for-the-badge&logo=python"/>  <img alt="firebase" src="https://img.shields.io/badge/Firebase-%20-yellow?style=for-the-badge&logo=firebase"/> <img alt="firebase" src="https://img.shields.io/badge/Bootstrap-%20-blueviolet?style=for-the-badge&logo=bootstrap"/> <img alt="Googlecloud" src="https://img.shields.io/badge/Googlecloud-%20-blue?style=for-the-badge&logo=google%20cloud"/> 
 
+#### GitHub Stats
+<img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=marcelorvergara&count_private=true&show_icons=true&theme=onedark"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelorvergara&langs_count=10&layout=compact&theme=onedark" height="220" alt="Languages" />
+
 
 
 <!---
