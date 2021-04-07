@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on new projects.
 - :speech_balloon: Ask me about music, Flamengo, network, firewalls and servers infrastructure.
 - :zap: I'm not thunder
-- 📫 How to reach me --> <a href="mailto:marcelorv@gmail.com"><img src="icons/gmail.svg" alt="GmailIcon" width="16" height="16" align="center"><img/></a> <a href="https://www.linkedin.com/in/mvergara/"><img src="icons/linkedin.svg" alt="LinkedinIcon" width="16" height="16" align="center"><img/> <a href="https://twitter.com/OFlamengoFacts"><img src="icons/twitter.svg" alt="TwitterIcon" width="16" height="16" align="center"><img/></a>
+- 📫 How to reach me: <a href="mailto:marcelorv@gmail.com"><img src="icons/gmail.svg" alt="GmailIcon" width="16" height="16" align="center"><img/></a> <a href="https://www.linkedin.com/in/mvergara/"><img src="icons/linkedin.svg" alt="LinkedinIcon" width="16" height="16" align="center"><img/> <a href="https://twitter.com/OFlamengoFacts"><img src="icons/twitter.svg" alt="TwitterIcon" width="16" height="16" align="center"><img/></a>
 
 ***
 
@@ -22,7 +22,7 @@
 <table style="vertical-align: top; border: 0 solid black; border-collapse: collapse">
     <tr>
         <td>
-            <img width="432" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=marcelorvergara&count_private=true&show_icons=true&theme=onedark"/> 
+            <img width="433" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=marcelorvergara&count_private=true&show_icons=true&theme=onedark"/> 
         </td>    
         <td>
             <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelorvergara&langs_count=10&layout=compact&theme=onedark" height="220" alt="Languages" />
@@ -30,10 +30,3 @@
 </tr>
 </table>
 
-
-
-
-<!---
-marcelorvergara/marcelorvergara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
