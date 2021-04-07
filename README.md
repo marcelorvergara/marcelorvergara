@@ -13,12 +13,7 @@
 
 ### You can count on me
 
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%20-yellow"/>
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-%20-green"/>
-<img alt="Java" src="https://img.shields.io/badge/Java-%20-orange"/>
-<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%20-yellowgreen"/>
-<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%20-blue"/>
-<img alt="Android" src="https://img.shields.io/badge/Android-%20-green"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%20-yellow"/> | <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%20-green"/> | <img alt="Java" src="https://img.shields.io/badge/Java-%20-orange"/> | <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%20-yellowgreen"/> | <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%20-blue"/> | <img alt="Android" src="https://img.shields.io/badge/Android-%20-green"/>
 
 
 
