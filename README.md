@@ -27,6 +27,11 @@
         <td>
             <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelorvergara&langs_count=10&layout=compact&theme=onedark" height="220" alt="Languages" />
         </td>
-</tr>
+    </tr>
+    <tr>
+        <td colspan="2" style="horiz-align: right">
+            ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amandahp.amandahp)
+        </td>
+    </tr>
 </table>
 
