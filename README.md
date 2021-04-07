@@ -11,7 +11,7 @@
 - 💞️ I’m looking to collaborate on new projects.
 - :speech_balloon: Ask me about music, Flamengo, network, firewalls and servers infrastructure.
 - :zap: I'm not thunder
-- 📫 How to reach me => <a href="mailto:marcelorv@gmail.com"><img src="icons/gmail.svg" alt="GmailIcon" width="30" height="30" aling="center"><img/></a>
+- 📫 How to reach me => <a href="mailto:marcelorv@gmail.com"><img src="icons/gmail.svg" alt="GmailIcon" width="16" height="16" aling="center"><img/></a>
 
 
 
