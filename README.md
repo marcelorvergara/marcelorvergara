@@ -31,7 +31,7 @@
 <table>
     <tr>
         <td colspan="2" style="text-align: center; background-color: lightgray">
-           :bowtie:  <img src="https://visitor-badge.laobi.icu/badge?page_id=marcelorvergara.marcelorvergara" alt="visitors number"/>
+            <img src="https://visitor-badge.laobi.icu/badge?page_id=marcelorvergara.marcelorvergara" alt="visitors number"/>
         </td>
     </tr>
 </table>
