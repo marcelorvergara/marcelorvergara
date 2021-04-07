@@ -29,10 +29,10 @@
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="horiz-align: right">
+        <td colspan="2" style="text-align: right">
             <img src="https://visitor-badge.laobi.icu/badge?page_id=marcelorvergara.marcelorvergara"/>
         </td>
     </tr>
 </table>
-![Visitor Badge]()
+
 
