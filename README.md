@@ -17,8 +17,6 @@
 
 ---
 
-### GitHub Stats 
-
 <table style="vertical-align: top; border-collapse: collapse; border:0; text-decoration:none; outline:none">
     <tr>
         <td>
@@ -28,9 +26,12 @@
             <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelorvergara&langs_count=10&layout=compact&theme=onedark" height="220" alt="Languages" />
         </td>
     </tr>
+</table>
+
+<table>
     <tr>
-        <td colspan="2" style="text-align: right; background-color: lightgray">
-            <img src="https://visitor-badge.laobi.icu/badge?page_id=marcelorvergara.marcelorvergara" alt="visitors number"/>
+        <td colspan="2" style="text-align: center; background-color: lightgray">
+           :bowtie:  <img src="https://visitor-badge.laobi.icu/badge?page_id=marcelorvergara.marcelorvergara" alt="visitors number"/>
         </td>
     </tr>
 </table>
