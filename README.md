@@ -13,6 +13,12 @@
 
 ***
 
+| ![Google Cloud Database Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79861123) | ![Google Cloud Architect](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/76865021) | ![Google Cloud Developer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/68057463) | ![Google Cloud Associate Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/66408181) | ![Google Cloud Digital Leader](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/65262070) |
+|:---:|:---:|:---:|:---:|:---:|
+| Google Cloud Database Engineer | Google Cloud Architect | Google Cloud Developer | Google Cloud Associate Engineer | Google Digital Leader |
+
+***
+
 <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-gray?style=for-the-badge&logo=vue.js"/> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-gray?style=for-the-badge&logo=node.js"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=javascript"/>  <img alt="Java" src="https://img.shields.io/badge/Java-gray?style=for-the-badge&logo=java&logoColor=E96420"/> <img alt="hibernate" src="https://img.shields.io/badge/Hibernate-gray?style=for-the-badge&logo=hibernate"/> <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-gray?style=for-the-badge&logo=kotlin"/> <img alt="Android" src="https://img.shields.io/badge/Android-gray?style=for-the-badge&logo=android"/> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-gray?style=for-the-badge&logo=mysql&logoColor=lightblue"/> <img alt="postgres" src="https://img.shields.io/badge/postgres-grey?style=for-the-badge&logo=postgresql"/> <img alt="Python" src="https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python"/> <img alt="firebase" src="https://img.shields.io/badge/Firebase-gray?style=for-the-badge&logo=firebase"/> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-gray?style=for-the-badge&logo=bootstrap"/> <img alt="Googlecloud" src="https://img.shields.io/badge/Googlecloud-gray?style=for-the-badge&logo=google%20cloud"/> 
 
 ---
