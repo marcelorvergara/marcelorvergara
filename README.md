@@ -5,7 +5,7 @@
 ### I’m Marcelo Vergara
 
 - 👀 I’m interested in software projects and developing great products.
-- 🌱 I’m currently coding Java, JS, Vue, Android (Kotlin), Python and some serveless technologies like Firebase Functions and Google App Engine.
+- 🌱 I’ve worked with Java, JS, Vue, React, Android (Kotlin), Python and some serveless technologies like Firebase Functions and Google Cloud.
 - 💞️ I’m looking to collaborate on new projects.
 - :speech_balloon: Ask me about Flamengo, Google Cloud or anything else you would like to know about me.
 - :zap: Take a look at my pinned projects below
