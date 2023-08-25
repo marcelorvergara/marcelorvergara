@@ -26,10 +26,10 @@
 <table style="vertical-align: top; border-collapse: collapse; border:0; text-decoration:none; outline:none">
     <tr>
         <td>
-            <img width="433" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=marcelorvergara&count_private=true&show_icons=true&theme=tokyonight"/> 
+            <img height="220" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=marcelorvergara&count_private=true&show_icons=true&theme=tokyonight"/> 
         </td>    
         <td>
-            <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelorvergara&langs_count=10&layout=compact&theme=onedark" height="220" alt="Languages" />
+            <img height="220"  alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelorvergara&langs_count=10&layout=compact&theme=tokyonight"/>
         </td>
     </tr>
 </table>
