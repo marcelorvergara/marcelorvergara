@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on new projects.
 - :speech_balloon: Ask me about Flamengo, Google Cloud or anything else you would like to know about me.
 - :zap: Take a look at my pinned projects below
-- 📫 How to reach me: <a href="mailto:me@mvergara.net"><img src="icons/gmail.svg" alt="GmailIcon" width="16" height="16" align="center"><img/></a> <a href="https://www.linkedin.com/in/mvergara/"><img src="icons/linkedin.svg" alt="LinkedinIcon" width="16" height="16" align="center"><img/> <a href="https://twitter.com/OFlamengoFacts"><img src="icons/x.png" alt="TwitterIcon" width="16" height="16" align="center"><img/></a>
+- 📫 How to reach me: <a href="mailto:me@mvergara.net"><img src="icons/gmail.svg" alt="GmailIcon" width="16" height="16" align="center"><img/></a> <a href="https://www.linkedin.com/in/mvergara/"><img src="icons/linkedin.svg" alt="LinkedinIcon" width="16" height="16" align="center"><img/> <a href="https://twitter.com/OFlamengoFacts"><img src="icons/X.png" alt="TwitterIcon" width="16" height="16" align="center"><img/></a>
 
 ***
 
