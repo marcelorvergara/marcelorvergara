@@ -21,17 +21,6 @@
 
 ---
 
-<table style="vertical-align: top; border-collapse: collapse; border:0; text-decoration:none; outline:none">
-    <tr>
-        <td>
-            <img height="220" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=marcelorvergara&count_private=true&show_icons=true&theme=tokyonight"/> 
-        </td>    
-        <td>
-            <img height="220"  alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelorvergara&langs_count=10&layout=compact&theme=tokyonight"/>
-        </td>
-    </tr>
-</table>
-
 <table>
     <tr>
         <td colspan="2" style="text-align: center; background-color: lightgray">
