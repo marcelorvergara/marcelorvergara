@@ -13,8 +13,6 @@
 
 ***
 
-| ![Google Cloud Database Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79861123) | ![Google Cloud Architect](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/76865021) | ![Google Cloud Developer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/68057463) | ![Google Cloud Associate Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/66408181) | ![Google Cloud Digital Leader](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/65262070) |
-|:---:|:---:|:---:|:---:|:---:|
 | Google Cloud Database Engineer | Google Cloud Architect | Google Cloud Developer | Google Cloud Associate Engineer | Google Digital Leader |
 
 ***
