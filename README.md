@@ -5,9 +5,9 @@
 **The Human in the Circuit:** Uniting high-performance engineering, cloud scalability, and generative AI to lead high-performance teams.
 
 *   **⚡ Core Focus:** Transitioning strategic enterprise applications between high-availability bare-metal networks and resilient, distributed cloud-native architectures (GCP).
-*   **🚀 AI-First Delivery:** Pioneering Spec-Driven Development (SDD) utilizing advanced AI tools (Claude Code, Gemini) to accelerate clean code execution, system refactoring, and automated testing pipelines[cite: 1].
-*   **🛠️ Production Stack:** Architecting distributed microservices with Java (Spring Boot 3), Kotlin, and asynchronous messaging alongside complex data ecosystems (Oracle, MongoDB, OpenSearch)[cite: 1].
-*   **📈 Proven Scale:** Veteran technical leader of high-volumetric transactional systems, critical incident management, and complex batch optimization pipelines[cite: 1].
+*   **🚀 AI-First Delivery:** Pioneering Spec-Driven Development (SDD) utilizing advanced AI tools (Claude Code, Gemini) to accelerate clean code execution, system refactoring, and automated testing pipelines.
+*   **🛠️ Production Stack:** Architecting distributed microservices with Java (Spring Boot 3), Kotlin, and asynchronous messaging alongside complex data ecosystems (Oracle, MongoDB, OpenSearch).
+*   **📈 Proven Scale:** Veteran technical leader of high-volumetric transactional systems, critical incident management, and complex batch optimization pipelines.
 
 ---
 - 📫 How to reach me: <a href="mailto:me@mvergara.net"><img src="icons/gmail.svg" alt="GmailIcon" width="16" height="16" align="center"><img/></a> <a href="https://www.linkedin.com/in/mvergara/"><img src="icons/linkedin.svg" alt="LinkedinIcon" width="16" height="16" align="center"><img/> <a href="https://twitter.com/OFlamengoFacts"><img src="icons/X.png" alt="TwitterIcon" width="16" height="16" align="center"><img/></a>
