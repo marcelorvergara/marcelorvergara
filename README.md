@@ -1,4 +1,4 @@
-![alt text](https://github.com/marcelorvergara/marcelorvergara/blob/main/banner.png)
+![alt text](https://github.com/marcelorvergara/marcelorvergara/blob/main/icons/banner.png)
 
 ## Hello there! 👋 I'm Marcelo Vergara
 
