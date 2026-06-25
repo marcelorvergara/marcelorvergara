@@ -1,4 +1,4 @@
-![alt text](https://github.com/marcelorvergara/marcelorvergara/blob/main/good-programmer-banner-final.jpg)
+![alt text](https://github.com/marcelorvergara/marcelorvergara/blob/main/banner.png)
 
 ## Hello there! :wave:
 
