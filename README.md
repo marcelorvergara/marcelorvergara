@@ -10,8 +10,8 @@
 *   **📈 Proven Scale:** Veteran technical leader of high-volumetric transactional systems, critical incident management, and complex batch optimization pipelines.
 
 ---
-- 📫 How to reach me: <a href="mailto:me@mvergara.net"><img src="icons/gmail.svg" alt="GmailIcon" width="16" height="16" align="center"><img/></a> <a href="https://www.linkedin.com/in/mvergara/"><img src="icons/linkedin.svg" alt="LinkedinIcon" width="16" height="16" align="center"><img/> <a href="https://twitter.com/OFlamengoFacts"><img src="icons/X.png" alt="TwitterIcon" width="16" height="16" align="center"><img/></a>
-
+<a href="mailto:mrezendevergara@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="22"></a> <a href="https://www.linkedin.com/in/mvergara/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="22"></a> <a href="https://www.youtube.com/@VergaraVerse" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" height="22"></a> <a href="https://www.tiktok.com/@vergaraverse" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok" height="22"></a>
+<a href="https://mvergara.net" target="_blank"><img src="https://img.shields.io/badge/mvergara.net-0A0E17?style=flat&logo=target&logoColor=60A5FA" alt="Portfolio" height="22"></a> 
 ***
 
 | Google Cloud Database Engineer | Google Cloud Architect | Google Cloud Developer | Google Cloud Associate Engineer | Google Digital Leader |
