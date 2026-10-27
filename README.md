@@ -20,11 +20,12 @@
 
 ---
 
-### 🏆 Google Cloud Certifications ([Verify on Credly ↗](https://www.credly.com/users/mvergara/badges))
+### 🏆 Cloud & Agile Certifications ([Credly ↗](https://www.credly.com/users/mvergara/badges) · [BCert ↗](https://bcert.me/vnsjqfqhe))
 
 <a href="https://www.credly.com/badges/79f2e875-6baa-45ac-8950-46adbaeeefcd/public_url" target="_blank"><img alt="Professional Cloud Architect" src="https://img.shields.io/badge/GCP-Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
 <a href="https://www.credly.com/badges/c296ab52-3d25-4f23-b859-7da19be8a9aa/public_url" target="_blank"><img alt="Associate Cloud Engineer" src="https://img.shields.io/badge/GCP-Associate_Cloud_Engineer-34A853?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
 <a href="https://www.credly.com/badges/9b202731-a735-418f-9fe7-33f4857b0294/public_url" target="_blank"><img alt="Cloud Digital Leader" src="https://img.shields.io/badge/GCP-Cloud_Digital_Leader-FBBC04?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
+<a href="https://bcert.me/vnsjqfqhe" target="_blank"><img alt="Scrum Master Certified" src="https://img.shields.io/badge/Agile-Scrum_Master_Certified-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white"/></a>
 
 ### 🎖️ Verified Skill Badges (AI Agents, Data & Cloud-Native)
 
